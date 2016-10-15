@@ -7,6 +7,8 @@ and probably you ended up with lots of tabs (at least 3,4 tabs per property)
 This project lets you scrape the property data out of Sakura House given a starting renting day.
 It also visualizes it on google maps.
 
+![](https://github.com/dav009/sakura-house/raw/master/screenshot.png)
+
 
 # Installation
 
