@@ -23,6 +23,9 @@ It also visualizes it on google maps.
 - `http://localhost:5000` will visualize properties with availability by the current daye
 - `http://localhost:5000/?date=2017/05/12` will visualize properties with availability by the given date
 
+- data will be saved at `static/sakura-DATE.json`
+
+
 ## Just Scraping
 
 
