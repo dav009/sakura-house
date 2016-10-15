@@ -76,7 +76,7 @@ def extract_info(property_url):
     subproperties['url'] = property_url
     return subproperties
     
-    
+def extract_properties(move_in_date, price_min, price_max):   
 
     def format_url(page):
         data = {'current_page': page,
