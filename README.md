@@ -8,10 +8,12 @@ This project lets you scrape the property data out of Sakura House given a start
 It also visualizes it on google maps.
 
 
-# Requirements
+# Installation
 
 - `python3.4`
 - `lxml`
+- `pip install -r requirements.txt`
+
 
 # how to ?
 
