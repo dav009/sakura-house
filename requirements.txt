@@ -1,3 +1,4 @@
 cssselect==0.9.1
 lxml==3.3.3
 requests
+flask==0.10.1
