@@ -24,7 +24,7 @@ It also visualizes it on google maps.
 
 ## Scraping & Vissualizing
 - create a `config.json` and place your `GOOGLE MAPS API KEY` : `{"GOOGLE_MAPS_API_KEY":"your key"}`
-- `python3 server.py`
+- `python3 sakura server`
 - `http://localhost:5000` will visualize properties with availability by the current daye
 - `http://localhost:5000/?date=2017/05/12` will visualize properties with availability by the given date
 
@@ -32,6 +32,8 @@ It also visualizes it on google maps.
 
 
 ## Just Scraping
+
+- `python3 sakura dump --output path-to/something/a.json --move_date 2016/10/21`
 
 
 
