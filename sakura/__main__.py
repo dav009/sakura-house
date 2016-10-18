@@ -9,7 +9,7 @@ import json
 @click.argument('action')
 @click.option('--move_date', help='expected date to movie in')
 @click.option('--output', help='output folder for extracted data')
-def main(action, move_date):
+def main(action, move_date, output):
 
     if action == "dump":
         filename = "sakura-%s.json" % (move_date)
